@@ -1,0 +1,11 @@
+/home/denisonder/code/csharp-calculator/bin/Debug/netcoreapp3.1/csharp-calculator
+/home/denisonder/code/csharp-calculator/bin/Debug/netcoreapp3.1/csharp-calculator.deps.json
+/home/denisonder/code/csharp-calculator/bin/Debug/netcoreapp3.1/csharp-calculator.runtimeconfig.json
+/home/denisonder/code/csharp-calculator/bin/Debug/netcoreapp3.1/csharp-calculator.runtimeconfig.dev.json
+/home/denisonder/code/csharp-calculator/bin/Debug/netcoreapp3.1/csharp-calculator.dll
+/home/denisonder/code/csharp-calculator/bin/Debug/netcoreapp3.1/csharp-calculator.pdb
+/home/denisonder/code/csharp-calculator/obj/Debug/netcoreapp3.1/csharp-calculator.csprojAssemblyReference.cache
+/home/denisonder/code/csharp-calculator/obj/Debug/netcoreapp3.1/csharp-calculator.AssemblyInfoInputs.cache
+/home/denisonder/code/csharp-calculator/obj/Debug/netcoreapp3.1/csharp-calculator.AssemblyInfo.cs
+/home/denisonder/code/csharp-calculator/obj/Debug/netcoreapp3.1/csharp-calculator.dll
+/home/denisonder/code/csharp-calculator/obj/Debug/netcoreapp3.1/csharp-calculator.pdb
